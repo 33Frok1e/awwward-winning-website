@@ -25,6 +25,6 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 - React.js
 - Tailwind CSS
 
-<div align="center">
+<div>
      I learnt this on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
 </div>
